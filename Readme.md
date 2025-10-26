@@ -2,7 +2,7 @@
 
 Interactive, step‑by‑step visualizer for the most fundamental Data Structures & Algorithms (DSA) patterns. It shows **code (Python/JS)** and the **execution state** side‑by‑side, with **Play/Step/Reset** controls, a **light/dark** theme toggle, and a **built‑in test runner**.
 
-[https://github.com/your-org/algorithm-visualizer]([https://github.com/your-org/algorithm-visualizer](https://chatgpt.com/canvas/shared/68fcb4eee6d8819186f3170f5fb13477))
+(https://chatgpt.com/canvas/shared/68fcb4eee6d8819186f3170f5fb13477)
 
 ---
 
